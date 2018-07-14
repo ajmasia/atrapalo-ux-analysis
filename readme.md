@@ -6,6 +6,20 @@ This repository contains the UX testing report of proposed improvements for www.
 
 You can see the survey from the attached pdf.
 
+## Prototype
+
+### Task 01
+
+![Task01](./Task01_Prototype_AJMA_20180714.png)
+
+### Task 02
+
+![Task02](./Task02_Prototype_AJMA_20180714.png)
+
+### Task 03
+
+![Task03](./Task03_Prototype_AJMA_20180714.png)
+
 ## License
 
 MIT License
